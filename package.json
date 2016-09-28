@@ -1,0 +1,26 @@
+{
+  "name": "euclid-inc--clamp.js",
+  "version": "1.0.0",
+  "description": "Clamps (ie. cuts off) an HTML element's content by adding ellipsis to it if the ",
+  "main": "clamp.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euclid-inc/Clamp.js.git"
+  },
+  "keywords": [
+    "clamp.js",
+    "ellipsis"
+  ],
+  "author": "euclid inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euclid-inc/Clamp.js/issues"
+  },
+  "homepage": "https://github.com/euclid-inc/Clamp.js#readme"
+}
